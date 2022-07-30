@@ -8,7 +8,7 @@ Parametric study on sufficiency measures of residential buildings in Zurich
 ## Getting Started
 
 ##### Model, parallel coordinates and plots: 
-<pre>contains model, creates parallel coordinates plot and plots for different scenarios
+<pre>Contains model, creates parallel coordinates plot and plots for different scenarios
  </pre> 
  
 ##### Business as usual: 
