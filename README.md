@@ -5,7 +5,7 @@ Parametric study on sufficiency measures of residential buildings in Zurich
 * Sensitivity analysis of the model
 
 
-## Getting Started - File Descriptions
+## Getting Started - File Descriptions 
 
 
 ##### Model, parallel coordinates and plots: 
