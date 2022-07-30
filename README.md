@@ -1,4 +1,4 @@
-# Master-Thesis-Raphael-Vogt
+# Master Thesis of Raphael Vogt
 Parametric study on sufficiency measures of residential buildings in Zurich
 
 * building a model which simulates the residential building sector from 2021 up to 2050
