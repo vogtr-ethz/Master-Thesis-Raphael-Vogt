@@ -35,4 +35,4 @@ Parametric study on sufficiency measures of residential buildings in Zurich
 ## Acknowledgment
 
 *Yasmine Priore*
-* Github: *https://github.com/YamsminePriore*
+* Github: *https://github.com/YasminePriore*
